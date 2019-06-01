@@ -28,6 +28,7 @@ section#featured-property > p {
 
 div {
   float: left;
+  text-align: center;
 }
 
 section#details {
