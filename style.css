@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-header {
+header, figcaption {
   text-align: center;
 }
 
@@ -14,3 +14,4 @@ img {
   margin-right: auto;
   width: 50%;
 }
+
